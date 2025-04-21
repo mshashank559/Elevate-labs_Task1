@@ -1,7 +1,7 @@
 # 📊 Netflix Titles Dashboard – Power BI
 
 This project presents an interactive Power BI dashboard built using a cleaned dataset of Netflix titles.  
-The goal is to provide a high-level visual overview of content available on the platform, with options to drill down by genre, country, type, and more.
+
 
 ---
 
