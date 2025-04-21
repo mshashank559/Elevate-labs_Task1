@@ -1,84 +1,92 @@
-📊 Netflix Titles Dashboard – Power BI
+# 📊 Netflix Titles Dashboard – Power BI
 
-This project presents an interactive Power BI dashboard built using a cleaned dataset of Netflix titles. The goal is to provide a high-level visual overview of content available on the platform, with options to drill down by genre, country, type, and more.
+This project presents an interactive Power BI dashboard built using a cleaned dataset of Netflix titles.  
+The goal is to provide a high-level visual overview of content available on the platform, with options to drill down by genre, country, type, and more.
 
+---
 
+## 🚀 Project Highlights (Dark Theme Dashboard)
 
+🟥 Dashboard Theme
+Sleek dark-themed interface with vibrant red highlights for a professional Netflix-inspired aesthetic.
 
-🚀 Project Highlights
+📊 Total Shows Overview
+Displays total number of shows, TV shows, and movies clearly in KPI cards.
 
-🎬 Title Types: Visual breakdown of Movies vs TV Shows.
+🍩 Content Type Distribution
+Donut charts showing breakdown between Movies and TV Shows.
 
-🌍 Country Insights: Count of titles produced by each country.
+📈 Release Trends
+Line chart visualizing content release over time, highlighting a sharp spike in recent years.
 
-📆 Release Trends: Timeline of content release over the years.
+⭐ Ratings Distribution
+Bar chart presenting the distribution of shows across various content ratings (e.g., TV-MA, TV-14, PG, R).
 
-⭐ Ratings Distribution: Pie chart for rating categories (e.g., TV-MA, PG-13).
+🌍 Country Distribution
+World map visualization showing the global production distribution of Netflix content.
 
-🧾 Genre Breakdown: Tree map for genres under “listed_in” field.
-
-
-
-
-📂 Dataset Used
-
-Source: Kaggle - Netflix Movies and TV Shows
-
-Fields Included:
-
-title, type, country, release_year, rating, date_added
-
-duration, listed_in, cast, director
+🧩 Multi-level Filters
+Top panel slicers allow filtering based on Show Type, Release Year, and Country for dynamic interactivity.
 
 
 
+---
 
-💡 Features
+## 📂 Dataset Used
 
-Fully interactive visuals with slicers and filters
+"Source": [Kaggle – Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-Drill-down capability by year and genre
+"Fields Included":
+- title  
+- type  
+- country  
+- release_year  
+- rating  
+- date_added  
+- duration  
+- listed_in  
+- cast  
+- director  
 
-Clean layout with intuitive visual hierarchy
+---
 
-Responsive dashboard for better readability
+## 💡 Features
+
+- Fully interactive visuals with slicers and filters  
+- Drill-down capability by year and genre  
+- Clean layout with intuitive visual hierarchy  
+- Responsive dashboard for better readability  
+
+---
+
+## 🛠 Tools Used
+
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- Power Query Editor (for data cleaning and transformation)  
+
+---
+
+## 📎 How to Use
+
+1. Open the `.pbix` file in Power BI Desktop  
+2. Use the slicers (Type, Country, Rating, etc.) to interact  
+3. Explore visuals for trends and patterns  
+4. Customize or extend based on your analysis needs  
+
+---
+
+## 📌 Notes
+
+- All visuals are layered properly using the "Selection Pane"  
+- Dashboard is clean, functional, and presentation-ready  
+
+---
+
+## 🙌 Author
+
+**Shashank Mishra**  
+RA2211033010061  
 
 
-
-
-🛠 Tools Used
-
-Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
-Data Cleaning & Transformation (Power Query Editor)
-
-
-
-
-📎 How to Use
-
-Open the .pbix file in Power BI Desktop
-
-Interact with the slicers (Type, Country, Rating, etc.)
-
-Use visual filters to explore trends and patterns
-
-Modify or enhance visuals based on business needs
-
-
-
-
-📌 Notes
-
-All elements are properly layered and locked using the Selection Pane
-
-Dashboard is clean, professional, and user-ready
-
-
-
-
-🙌 Author
-
-Shashank Mishra
+---
