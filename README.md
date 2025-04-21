@@ -2,6 +2,7 @@
 
 This project presents an interactive Power BI dashboard built using a cleaned dataset of Netflix titles. The goal is to provide a high-level visual overview of content available on the platform, with options to drill down by genre, country, type, and more.
 
+
 🚀 Project Highlights
 
 🎬 Title Types: Visual breakdown of Movies vs TV Shows.
@@ -14,6 +15,7 @@ This project presents an interactive Power BI dashboard built using a cleaned da
 
 🧾 Genre Breakdown: Tree map for genres under “listed_in” field.
 
+
 📂 Dataset Used
 
 Source: Kaggle - Netflix Movies and TV Shows
@@ -23,6 +25,7 @@ Fields Included:
 title, type, country, release_year, rating, date_added
 
 duration, listed_in, cast, director
+
 
 💡 Features
 
@@ -34,6 +37,7 @@ Clean layout with intuitive visual hierarchy
 
 Responsive dashboard for better readability
 
+
 🛠 Tools Used
 
 Power BI Desktop
@@ -41,6 +45,7 @@ Power BI Desktop
 DAX (Data Analysis Expressions)
 
 Data Cleaning & Transformation (Power Query Editor)
+
 
 📎 How to Use
 
@@ -52,12 +57,13 @@ Use visual filters to explore trends and patterns
 
 Modify or enhance visuals based on business needs
 
-📌 Notes
 
+📌 Notes
 
 All elements are properly layered and locked using the Selection Pane
 
 Dashboard is clean, professional, and user-ready
+
 
 🙌 Author
 
